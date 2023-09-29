@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "puncJhizZ90M+mmA3prJEv2JbxIAlM+5vQMT30fT/a7/ec/0xTVYAJQSM6zzoTt+h1BID/qGRONrFU01ojP0Ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Linis\\Source\\Repos\\Budget-WPF\\Budget-WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Linis\\.nuget\\packages\\materialdesigncolors\\2.1.2\\materialdesigncolors.2.1.2.nupkg.sha512",
+    "C:\\Users\\Linis\\.nuget\\packages\\materialdesignthemes\\4.8.0\\materialdesignthemes.4.8.0.nupkg.sha512",
+    "C:\\Users\\Linis\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
